@@ -15,3 +15,11 @@ Route::get('/', function () {
 Route::get('/selesai', function () {
     return view('selamat');
 });
+
+Route::get('/master', function () {
+    return view('template.master');
+});
+
+Route::get('/form', function () {
+    return view('form');
+});
