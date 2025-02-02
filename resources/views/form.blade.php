@@ -7,26 +7,6 @@
           <!-- left column -->
 <div class="col-md-12">
             <!-- general form elements -->
-            <div class="card card-primary">
-              <div class="card-header">
-                <h3 class="card-title">Quick Example</h3>
-              </div>
-              <!-- /.card-header -->
-              <!-- form start -->
-              <form>
-                <div class="card-body">
-                  <div class="form-group">
-                  <label for="namaGenre">Nama Genre</label>
-                  <input type="text" class="form-control" id="namaGenre" name="nama" placeholder="Masukkan Nama Genre">
-                  </div>
-                </div>
-                <!-- /.card-body -->
-
-                <div class="card-footer">
-                  <button type="submit" class="btn btn-primary">Submit</button>
-                </div>
-              </form>
-            </div>
 
             <div class="card card-primary">
               <div class="card-header">
